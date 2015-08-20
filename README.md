@@ -1,3 +1,7 @@
+Notice:
+---
+This repo is only a fork of the original work done by quasado before they decided to close source their work from licencing issues. So this repo is only to serve as record of the work that quasado orignally published.
+
 [![Build Status](https://travis-ci.org/quasado/gravit.svg?branch=master)](https://travis-ci.org/quasado/gravit)
 
 ## Introduction
